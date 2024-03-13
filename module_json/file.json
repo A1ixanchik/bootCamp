@@ -1,0 +1,22 @@
+{
+    "person": {
+      "name": "John Doe",
+      "age": 30,
+      "city": "Exampleville",
+      "isStudent": false,
+      "grades": [95, 87, 92]
+    },
+    "pets": [
+      {
+        "name": "Fluffy",
+        "type": "Cat",
+        "age": 3
+      },
+      {
+        "name": "Buddy",
+        "type": "Dog",
+        "age": 5
+      }
+    ]
+  }
+  
